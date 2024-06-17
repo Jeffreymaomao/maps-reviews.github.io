@@ -121,7 +121,7 @@ class VisualVector2 {
 
         const pad = this.style.padding;
         const xScale = (x) => (x - xRange[0]) / (xRange[1] - xRange[0]) * (width - 2 * pad) + pad;
-        const yScale = (y) => (y - yRange[0]) / (yRange[1] - yRange[0]) * (height - 2 * pad) + pad;
+        const yScale = (y) => height - ((y - yRange[0]) / (yRange[1] - yRange[0]) * (height - 2 * pad) + pad);
 
         const pointStyle = this.style.point;
         this.dom.points = [];
