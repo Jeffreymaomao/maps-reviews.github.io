@@ -1,0 +1,1 @@
+return document.querySelectorAll('a').map(anchor=>anchor.href.includes("www.google.com.tw/maps/place/")?anchor.href:null)

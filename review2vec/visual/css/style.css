@@ -1,0 +1,61 @@
+html,body {
+	overflow: hidden;
+}
+
+body {
+    font-family: "San Francisco", "Helvetica Neue", Arial, sans-serif;
+}
+
+
+*{
+	position: relative;
+	box-sizing: border-box;
+}
+
+main {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.point {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    background-color: #000;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#tooltip {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    pointer-events: none;
+    display: none;
+    max-width: 50vw;
+    word-wrap: break-word;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.tooltip-author {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.tooltip-stars {
+    color: gold;
+}
+
+.tooltip-comment {
+    margin-top: 5px;
+    text-wrap: wrap;
+}
+
+/*https://www.qtccolor.com/secaiku/show/235*/
+
+

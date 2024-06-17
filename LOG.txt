@@ -1,0 +1,1488 @@
+2024-06-05 10:40:00 - Starting get_shops_anchors
+2024-06-05 10:40:00 - Error in get_shops_anchors: get_panels() takes 0 positional arguments but 1 was given
+2024-06-05 10:40:24 - Starting get_shops_anchors
+2024-06-05 10:40:24 - Starting get_panels
+2024-06-05 10:40:24 - get_panels completed successfully.
+2024-06-05 10:40:25 - get_shops_anchors completed successfully.
+2024-06-05 10:40:25 - Starting get_search_result_panels
+2024-06-05 10:40:25 - Starting get_panels
+2024-06-05 10:40:25 - get_panels completed successfully.
+2024-06-05 10:40:25 - get_search_result_panels completed successfully.
+2024-06-05 10:40:25 - Starting get_search_result_panels
+2024-06-05 10:40:25 - Starting get_panels
+2024-06-05 10:40:25 - get_panels completed successfully.
+2024-06-05 10:40:25 - get_search_result_panels completed successfully.
+2024-06-05 10:40:27 - Starting get_search_result_panels
+2024-06-05 10:40:27 - Starting get_panels
+2024-06-05 10:40:27 - get_panels completed successfully.
+2024-06-05 10:40:27 - get_search_result_panels completed successfully.
+2024-06-05 10:40:28 - Starting get_search_result_panels
+2024-06-05 10:40:28 - Starting get_panels
+2024-06-05 10:40:28 - get_panels completed successfully.
+2024-06-05 10:40:28 - get_search_result_panels completed successfully.
+2024-06-05 10:40:28 - Starting get_search_result_panels
+2024-06-05 10:40:28 - Starting get_panels
+2024-06-05 10:40:28 - get_panels completed successfully.
+2024-06-05 10:40:28 - get_search_result_panels completed successfully.
+2024-06-05 10:51:24 - Starting get_shops_anchors
+2024-06-05 10:51:24 - Starting get_panels
+2024-06-05 10:51:24 - get_panels completed successfully.
+2024-06-05 10:51:25 - get_shops_anchors completed successfully.
+2024-06-05 10:51:25 - Starting get_shop_information
+2024-06-05 10:51:25 - Attempt 1 to get shop information
+2024-06-05 10:51:25 - Starting get_search_result_panels
+2024-06-05 10:51:25 - Starting get_panels
+2024-06-05 10:51:25 - get_panels completed successfully.
+2024-06-05 10:51:26 - get_search_result_panels completed successfully.
+2024-06-05 10:51:26 - Successfully obtained shop information
+2024-06-05 10:51:31 - Attempt 1 to get comment button
+2024-06-05 10:51:31 - Starting get_search_result_panels
+2024-06-05 10:51:31 - Starting get_panels
+2024-06-05 10:51:31 - get_panels completed successfully.
+2024-06-05 10:51:31 - get_search_result_panels completed successfully.
+2024-06-05 10:51:31 - Comment button found
+2024-06-05 10:51:32 - Attempt 1 to get radiogroup
+2024-06-05 10:51:32 - Starting get_search_result_panels
+2024-06-05 10:51:32 - Starting get_panels
+2024-06-05 10:51:32 - get_panels completed successfully.
+2024-06-05 10:51:32 - get_search_result_panels completed successfully.
+2024-06-05 10:51:33 - Radiogroup found, fetching radios
+2024-06-05 10:51:33 - Starting get_search_result_panels
+2024-06-05 10:51:33 - Starting get_panels
+2024-06-05 10:51:33 - get_panels completed successfully.
+2024-06-05 10:51:33 - get_search_result_panels completed successfully.
+2024-06-05 10:51:33 - Radios fetched!
+2024-06-05 10:51:33 - Starting get_search_result_panels
+2024-06-05 10:51:33 - Starting get_panels
+2024-06-05 10:51:33 - get_panels completed successfully.
+2024-06-05 10:51:33 - get_search_result_panels completed successfully.
+2024-06-05 10:51:53 - Starting get_shops_anchors
+2024-06-05 10:51:53 - Starting get_panels
+2024-06-05 10:51:53 - get_panels completed successfully.
+2024-06-05 10:51:54 - get_shops_anchors completed successfully.
+2024-06-05 10:51:54 - Starting get_shop_information
+2024-06-05 10:51:54 - Attempt 1 to get shop information
+2024-06-05 10:51:54 - Starting get_search_result_panels
+2024-06-05 10:51:54 - Starting get_panels
+2024-06-05 10:51:54 - get_panels completed successfully.
+2024-06-05 10:51:55 - get_search_result_panels completed successfully.
+2024-06-05 10:51:55 - Successfully obtained shop information
+2024-06-05 10:51:57 - Attempt 1 to get comment button
+2024-06-05 10:51:57 - Starting get_search_result_panels
+2024-06-05 10:51:57 - Starting get_panels
+2024-06-05 10:51:57 - get_panels completed successfully.
+2024-06-05 10:51:57 - get_search_result_panels completed successfully.
+2024-06-05 10:51:57 - Comment button found
+2024-06-05 10:51:58 - Attempt 1 to get radiogroup
+2024-06-05 10:51:58 - Starting get_search_result_panels
+2024-06-05 10:51:58 - Starting get_panels
+2024-06-05 10:51:58 - get_panels completed successfully.
+2024-06-05 10:51:58 - get_search_result_panels completed successfully.
+2024-06-05 10:51:59 - Radiogroup found, fetching radios
+2024-06-05 10:51:59 - Starting get_search_result_panels
+2024-06-05 10:51:59 - Starting get_panels
+2024-06-05 10:51:59 - get_panels completed successfully.
+2024-06-05 10:51:59 - get_search_result_panels completed successfully.
+2024-06-05 10:51:59 - Radios fetched!
+2024-06-05 10:51:59 - Starting get_search_result_panels
+2024-06-05 10:51:59 - Starting get_panels
+2024-06-05 10:51:59 - get_panels completed successfully.
+2024-06-05 10:51:59 - get_search_result_panels completed successfully.
+2024-06-05 11:29:06 - Starting get_shops_anchors
+2024-06-05 11:29:06 - Starting get_panels
+2024-06-05 11:29:06 - get_panels completed successfully.
+2024-06-05 11:29:07 - get_shops_anchors completed successfully.
+2024-06-05 11:29:07 - Starting get_shop_information
+2024-06-05 11:29:07 - Attempt 1 to get shop information
+2024-06-05 11:29:07 - Starting get_search_result_panels
+2024-06-05 11:29:07 - Starting get_panels
+2024-06-05 11:29:07 - get_panels completed successfully.
+2024-06-05 11:29:08 - get_search_result_panels completed successfully.
+2024-06-05 11:29:08 - Successfully obtained shop information
+2024-06-05 11:29:10 - Attempt 1 to get comment button
+2024-06-05 11:29:10 - Starting get_search_result_panels
+2024-06-05 11:29:10 - Starting get_panels
+2024-06-05 11:29:10 - get_panels completed successfully.
+2024-06-05 11:29:10 - get_search_result_panels completed successfully.
+2024-06-05 11:29:10 - Comment button found
+2024-06-05 11:29:11 - Attempt 1 to get radiogroup
+2024-06-05 11:29:11 - Starting get_search_result_panels
+2024-06-05 11:29:11 - Starting get_panels
+2024-06-05 11:29:11 - get_panels completed successfully.
+2024-06-05 11:29:11 - get_search_result_panels completed successfully.
+2024-06-05 11:29:12 - Radiogroup found, fetching radios
+2024-06-05 11:29:12 - Starting get_search_result_panels
+2024-06-05 11:29:12 - Starting get_panels
+2024-06-05 11:29:12 - get_panels completed successfully.
+2024-06-05 11:29:12 - get_search_result_panels completed successfully.
+2024-06-05 11:29:12 - Found radios!
+2024-06-05 11:29:12 - Starting to get comments
+2024-06-05 11:29:12 - Starting get_search_result_panels
+2024-06-05 11:29:12 - Starting get_panels
+2024-06-05 11:29:12 - get_panels completed successfully.
+2024-06-05 11:29:12 - get_search_result_panels completed successfully.
+2024-06-05 11:29:13 - Attempt 1 to get comments_group
+2024-06-05 11:29:13 - Feiched comments_group!
+2024-06-05 11:29:15 - expanded_button did not disappear within the time limit.
+2024-06-05 11:29:15 - Starting to get comment in block
+2024-06-05 11:29:15 - Found comment in block
+2024-06-05 11:29:17 - expanded_button did not disappear within the time limit.
+2024-06-05 11:29:17 - Starting to get comment in block
+2024-06-05 11:29:17 - Found comment in block
+2024-06-05 11:29:19 - expanded_button did not disappear within the time limit.
+2024-06-05 11:29:19 - Starting to get comment in block
+2024-06-05 11:29:19 - Found comment in block
+2024-06-05 11:29:21 - expanded_button did not disappear within the time limit.
+2024-06-05 11:29:21 - Starting to get comment in block
+2024-06-05 11:29:21 - Found comment in block
+2024-06-05 11:29:22 - Not found expanded button, retrying...
+2024-06-05 11:29:22 - Starting to get comment in block
+2024-06-05 11:29:22 - Found comment in block
+2024-06-05 11:29:23 - Not found expanded button, retrying...
+2024-06-05 11:29:23 - Starting to get comment in block
+2024-06-05 11:29:23 - Found comment in block
+2024-06-05 11:29:24 - Not found expanded button, retrying...
+2024-06-05 11:29:24 - Starting to get comment in block
+2024-06-05 11:29:24 - Found comment in block
+2024-06-05 11:29:25 - Not found expanded button, retrying...
+2024-06-05 11:29:25 - Starting to get comment in block
+2024-06-05 11:29:25 - Found comment in block
+2024-06-05 11:29:27 - expanded_button did not disappear within the time limit.
+2024-06-05 11:29:27 - Starting to get comment in block
+2024-06-05 11:29:27 - Found comment in block
+2024-06-05 11:29:28 - Not found expanded button, retrying...
+2024-06-05 11:29:28 - Starting to get comment in block
+2024-06-05 11:29:28 - Found comment in block
+2024-06-05 11:29:29 - Re-get comment_blocks
+2024-06-05 11:29:29 - Total comments fetched: 10
+2024-06-05 11:29:31 - expanded_button did not disappear within the time limit.
+2024-06-05 11:29:31 - Starting to get comment in block
+2024-06-05 11:29:31 - Found comment in block
+2024-06-05 11:29:32 - Not found expanded button, retrying...
+2024-06-05 11:29:32 - Starting to get comment in block
+2024-06-05 11:29:32 - Found comment in block
+2024-06-05 11:29:33 - Not found expanded button, retrying...
+2024-06-05 11:29:33 - Starting to get comment in block
+2024-06-05 11:29:33 - Found comment in block
+2024-06-05 11:29:35 - expanded_button did not disappear within the time limit.
+2024-06-05 11:29:35 - Starting to get comment in block
+2024-06-05 11:29:35 - Found comment in block
+2024-06-05 11:29:36 - Not found expanded button, retrying...
+2024-06-05 11:29:36 - Starting to get comment in block
+2024-06-05 11:29:36 - Found comment in block
+2024-06-05 11:29:37 - Not found expanded button, retrying...
+2024-06-05 11:29:37 - Starting to get comment in block
+2024-06-05 11:29:37 - Found comment in block
+2024-06-05 11:29:38 - Not found expanded button, retrying...
+2024-06-05 11:29:38 - Starting to get comment in block
+2024-06-05 11:29:38 - Found comment in block
+2024-06-05 11:29:39 - Not found expanded button, retrying...
+2024-06-05 11:29:39 - Starting to get comment in block
+2024-06-05 11:29:39 - Found comment in block
+2024-06-05 11:29:40 - Not found expanded button, retrying...
+2024-06-05 11:29:40 - Starting to get comment in block
+2024-06-05 11:29:40 - Found comment in block
+2024-06-05 11:29:41 - Not found expanded button, retrying...
+2024-06-05 11:29:41 - Starting to get comment in block
+2024-06-05 11:29:41 - Found comment in block
+2024-06-05 11:29:42 - Re-get comment_blocks
+2024-06-05 11:57:41 - Finding `shops_anchors`
+2024-06-05 11:57:41 - Finding `panels`
+2024-06-05 11:57:41 - Found `panels`!
+2024-06-05 11:57:42 - Found `shops_anchors`!
+2024-06-05 11:57:42 - Finding `shop_information`
+2024-06-05 11:57:42 - Try-1 to find `shop information`
+2024-06-05 11:57:42 - Finding `search_result_panels`
+2024-06-05 11:57:42 - Finding `panels`
+2024-06-05 11:57:42 - Found `panels`!
+2024-06-05 11:57:43 - Found `search_result_panels`!
+2024-06-05 11:57:43 - Found `shop information`!
+2024-06-05 11:57:45 - Try-1 to find `comment button`
+2024-06-05 11:57:45 - Finding `search_result_panels`
+2024-06-05 11:57:45 - Finding `panels`
+2024-06-05 11:57:45 - Found `panels`!
+2024-06-05 11:57:45 - Found `search_result_panels`!
+2024-06-05 11:57:45 - Found `comment button`!
+2024-06-05 11:57:46 - Try-1 to find `radiogroup`
+2024-06-05 11:57:46 - Finding `search_result_panels`
+2024-06-05 11:57:46 - Finding `panels`
+2024-06-05 11:57:46 - Found `panels`!
+2024-06-05 11:57:46 - Found `search_result_panels`!
+2024-06-05 11:57:47 - Found `radiogroup`! Finding `radios`
+2024-06-05 11:57:47 - Finding `search_result_panels`
+2024-06-05 11:57:47 - Finding `panels`
+2024-06-05 11:57:47 - Found `panels`!
+2024-06-05 11:57:47 - Found `search_result_panels`!
+2024-06-05 11:57:47 - Found `radios`!
+2024-06-05 11:57:47 - Finding comments
+2024-06-05 11:57:47 - Finding `search_result_panels`
+2024-06-05 11:57:47 - Finding `panels`
+2024-06-05 11:57:47 - Found `panels`!
+2024-06-05 11:57:47 - Found `search_result_panels`!
+2024-06-05 11:57:48 - Try-1 to find `comments group`
+2024-06-05 11:57:48 - Found `comments_group`!
+2024-06-05 11:57:50 - `expanded button` did not disappear within the time limit.
+2024-06-05 11:57:50 - Finding `comment`-2 in block
+2024-06-05 11:57:50 - Found `comment` in block!
+2024-06-05 11:57:52 - `expanded button` did not disappear within the time limit.
+2024-06-05 11:57:52 - Finding `comment`-3 in block
+2024-06-05 11:57:52 - Found `comment` in block!
+2024-06-05 11:57:54 - `expanded button` did not disappear within the time limit.
+2024-06-05 11:57:54 - Finding `comment`-4 in block
+2024-06-05 11:57:54 - Found `comment` in block!
+2024-06-05 11:57:56 - `expanded button` did not disappear within the time limit.
+2024-06-05 11:57:56 - Finding `comment`-5 in block
+2024-06-05 11:57:56 - Found `comment` in block!
+2024-06-05 11:57:57 - Not found `expanded button`, retrying...
+2024-06-05 11:57:57 - Finding `comment`-6 in block
+2024-06-05 11:57:57 - Found `comment` in block!
+2024-06-05 11:57:58 - Not found `expanded button`, retrying...
+2024-06-05 11:57:58 - Finding `comment`-7 in block
+2024-06-05 11:57:58 - Found `comment` in block!
+2024-06-05 11:57:59 - Not found `expanded button`, retrying...
+2024-06-05 11:57:59 - Finding `comment`-8 in block
+2024-06-05 11:57:59 - Found `comment` in block!
+2024-06-05 11:58:00 - Not found `expanded button`, retrying...
+2024-06-05 11:58:00 - Finding `comment`-9 in block
+2024-06-05 11:58:00 - Found `comment` in block!
+2024-06-05 11:58:02 - `expanded button` did not disappear within the time limit.
+2024-06-05 11:58:02 - Finding `comment`-10 in block
+2024-06-05 11:58:02 - Found `comment` in block!
+2024-06-05 11:58:03 - Not found `expanded button`, retrying...
+2024-06-05 11:58:03 - Finding `comment`-11 in block
+2024-06-05 11:58:03 - Found `comment` in block!
+2024-06-05 11:58:06 - `expanded button` did not disappear within the time limit.
+2024-06-05 11:58:06 - Finding `comment`-12 in block
+2024-06-05 11:58:06 - Found `comment` in block!
+2024-06-05 11:58:07 - Not found `expanded button`, retrying...
+2024-06-05 11:58:07 - Finding `comment`-13 in block
+2024-06-05 11:58:07 - Found `comment` in block!
+2024-06-05 11:58:08 - Not found `expanded button`, retrying...
+2024-06-05 11:58:08 - Finding `comment`-14 in block
+2024-06-05 11:58:08 - Found `comment` in block!
+2024-06-05 11:58:10 - `expanded button` did not disappear within the time limit.
+2024-06-05 11:58:10 - Finding `comment`-15 in block
+2024-06-05 11:58:10 - Found `comment` in block!
+2024-06-05 11:58:11 - Not found `expanded button`, retrying...
+2024-06-05 11:58:11 - Finding `comment`-16 in block
+2024-06-05 11:58:11 - Found `comment` in block!
+2024-06-05 11:58:12 - Not found `expanded button`, retrying...
+2024-06-05 11:58:12 - Finding `comment`-17 in block
+2024-06-05 11:58:12 - Found `comment` in block!
+2024-06-05 11:58:13 - Not found `expanded button`, retrying...
+2024-06-05 11:58:13 - Finding `comment`-18 in block
+2024-06-05 11:58:13 - Found `comment` in block!
+2024-06-05 11:58:14 - Not found `expanded button`, retrying...
+2024-06-05 11:58:14 - Finding `comment`-19 in block
+2024-06-05 11:58:14 - Found `comment` in block!
+2024-06-05 11:58:15 - Not found `expanded button`, retrying...
+2024-06-05 11:58:15 - Finding `comment`-20 in block
+2024-06-05 11:58:15 - Found `comment` in block!
+2024-06-05 11:58:16 - Not found `expanded button`, retrying...
+2024-06-05 11:58:16 - Finding `comment`-21 in block
+2024-06-05 11:58:16 - Found `comment` in block!
+2024-06-05 11:58:17 - Re-finding comment_blocks
+2024-06-05 11:58:18 - Not found `expanded button`, retrying...
+2024-06-05 11:58:18 - Finding `comment`-22 in block
+2024-06-05 11:58:18 - Found `comment` in block!
+2024-06-05 11:58:19 - Not found `expanded button`, retrying...
+2024-06-05 11:58:19 - Finding `comment`-23 in block
+2024-06-05 11:58:19 - Found `comment` in block!
+2024-06-05 11:58:20 - Not found `expanded button`, retrying...
+2024-06-05 11:58:20 - Finding `comment`-24 in block
+2024-06-05 11:58:20 - Found `comment` in block!
+2024-06-05 11:58:21 - Not found `expanded button`, retrying...
+2024-06-05 11:58:21 - Finding `comment`-25 in block
+2024-06-05 11:58:21 - Found `comment` in block!
+2024-06-05 11:58:22 - Not found `expanded button`, retrying...
+2024-06-05 11:58:22 - Finding `comment`-26 in block
+2024-06-05 11:58:22 - Found `comment` in block!
+2024-06-05 11:58:23 - Not found `expanded button`, retrying...
+2024-06-05 11:58:23 - Finding `comment`-27 in block
+2024-06-05 11:58:23 - Found `comment` in block!
+2024-06-05 11:58:24 - Not found `expanded button`, retrying...
+2024-06-05 11:58:24 - Finding `comment`-28 in block
+2024-06-05 11:58:24 - Found `comment` in block!
+2024-06-05 11:58:25 - Not found `expanded button`, retrying...
+2024-06-05 11:58:25 - Finding `comment`-29 in block
+2024-06-05 11:58:25 - Found `comment` in block!
+2024-06-05 11:58:26 - Not found `expanded button`, retrying...
+2024-06-05 11:58:26 - Finding `comment`-30 in block
+2024-06-05 11:58:26 - Found `comment` in block!
+2024-06-05 11:58:27 - Not found `expanded button`, retrying...
+2024-06-05 11:58:27 - Finding `comment`-31 in block
+2024-06-05 11:58:27 - Found `comment` in block!
+2024-06-05 11:58:28 - Re-finding comment_blocks
+2024-06-05 11:58:29 - Not found `expanded button`, retrying...
+2024-06-05 11:58:29 - Finding `comment`-32 in block
+2024-06-05 11:58:29 - Found `comment` in block!
+2024-06-05 11:58:31 - `expanded button` did not disappear within the time limit.
+2024-06-05 11:58:31 - Finding `comment`-33 in block
+2024-06-05 11:58:31 - Found `comment` in block!
+2024-06-05 11:58:32 - Not found `expanded button`, retrying...
+2024-06-05 11:58:32 - Finding `comment`-34 in block
+2024-06-05 11:58:32 - Found `comment` in block!
+2024-06-05 11:58:33 - Not found `expanded button`, retrying...
+2024-06-05 11:58:33 - Finding `comment`-35 in block
+2024-06-05 11:58:33 - Found `comment` in block!
+2024-06-05 11:58:34 - Not found `expanded button`, retrying...
+2024-06-05 11:58:34 - Finding `comment`-36 in block
+2024-06-05 11:58:34 - Found `comment` in block!
+2024-06-05 11:58:35 - Not found `expanded button`, retrying...
+2024-06-05 11:58:35 - Finding `comment`-37 in block
+2024-06-05 11:58:35 - Found `comment` in block!
+2024-06-05 11:58:36 - Not found `expanded button`, retrying...
+2024-06-05 11:58:36 - Finding `comment`-38 in block
+2024-06-05 11:58:36 - Found `comment` in block!
+2024-06-05 11:58:37 - Not found `expanded button`, retrying...
+2024-06-05 11:58:37 - Finding `comment`-39 in block
+2024-06-05 11:58:37 - Found `comment` in block!
+2024-06-05 11:58:38 - Not found `expanded button`, retrying...
+2024-06-05 11:58:38 - Finding `comment`-40 in block
+2024-06-05 11:58:38 - Found `comment` in block!
+2024-06-05 11:58:39 - Not found `expanded button`, retrying...
+2024-06-05 11:58:39 - Finding `comment`-41 in block
+2024-06-05 11:58:39 - Found `comment` in block!
+2024-06-05 11:58:40 - Re-finding comment_blocks
+2024-06-05 11:58:41 - Not found `expanded button`, retrying...
+2024-06-05 11:58:41 - Finding `comment`-42 in block
+2024-06-05 11:58:41 - Found `comment` in block!
+2024-06-05 11:58:42 - Not found `expanded button`, retrying...
+2024-06-05 11:58:42 - Finding `comment`-43 in block
+2024-06-05 11:58:42 - Found `comment` in block!
+2024-06-05 11:58:43 - Not found `expanded button`, retrying...
+2024-06-05 11:58:43 - Finding `comment`-44 in block
+2024-06-05 11:58:43 - Found `comment` in block!
+2024-06-05 11:58:44 - Not found `expanded button`, retrying...
+2024-06-05 11:58:44 - Finding `comment`-45 in block
+2024-06-05 11:58:44 - Found `comment` in block!
+2024-06-05 11:58:45 - Not found `expanded button`, retrying...
+2024-06-05 11:58:45 - Finding `comment`-46 in block
+2024-06-05 11:58:45 - Found `comment` in block!
+2024-06-05 11:58:46 - Not found `expanded button`, retrying...
+2024-06-05 11:58:46 - Finding `comment`-47 in block
+2024-06-05 11:58:46 - Found `comment` in block!
+2024-06-05 11:58:47 - Not found `expanded button`, retrying...
+2024-06-05 11:58:47 - Finding `comment`-48 in block
+2024-06-05 11:58:47 - Found `comment` in block!
+2024-06-05 11:58:48 - Not found `expanded button`, retrying...
+2024-06-05 11:58:48 - Finding `comment`-49 in block
+2024-06-05 11:58:48 - Found `comment` in block!
+2024-06-05 11:58:49 - Re-finding comment_blocks
+2024-06-05 11:58:49 - No new comments found, stopping
+2024-06-05 11:58:50 - Finding `shop_information`
+2024-06-05 11:58:50 - Try-1 to find `shop information`
+2024-06-05 11:58:50 - Finding `search_result_panels`
+2024-06-05 11:58:50 - Finding `panels`
+2024-06-05 11:58:50 - Found `panels`!
+2024-06-05 11:58:50 - Found `search_result_panels`!
+2024-06-05 11:58:50 - Found `shop information`!
+2024-06-05 11:58:52 - Try-1 to find `comment button`
+2024-06-05 11:58:52 - Finding `search_result_panels`
+2024-06-05 11:58:52 - Finding `panels`
+2024-06-05 11:58:52 - Found `panels`!
+2024-06-05 11:58:52 - Found `search_result_panels`!
+2024-06-05 11:58:52 - Found `comment button`!
+2024-06-05 11:58:53 - Try-1 to find `radiogroup`
+2024-06-05 11:58:53 - Finding `search_result_panels`
+2024-06-05 11:58:53 - Finding `panels`
+2024-06-05 11:58:53 - Found `panels`!
+2024-06-05 11:58:53 - Found `search_result_panels`!
+2024-06-05 11:58:55 - Not found radiogroup, retrying...
+2024-06-05 11:58:56 - Try-2 to find `radiogroup`
+2024-06-05 11:58:56 - Finding `search_result_panels`
+2024-06-05 11:58:56 - Finding `panels`
+2024-06-05 11:58:56 - Found `panels`!
+2024-06-05 11:58:56 - Found `search_result_panels`!
+2024-06-05 11:58:57 - Not found radiogroup, retrying...
+2024-06-05 11:58:58 - Try-3 to find `radiogroup`
+2024-06-05 11:58:58 - Finding `search_result_panels`
+2024-06-05 11:58:58 - Finding `panels`
+2024-06-05 11:58:58 - Found `panels`!
+2024-06-05 11:58:58 - Found `search_result_panels`!
+2024-06-05 11:59:00 - Not found radiogroup, retrying...
+2024-06-05 11:59:01 - Failed to find `radiogroup` after multiple retries
+2024-06-05 11:59:01 - Finding comments
+2024-06-05 11:59:01 - Finding `search_result_panels`
+2024-06-05 11:59:01 - Finding `panels`
+2024-06-05 11:59:01 - Found `panels`!
+2024-06-05 11:59:01 - Found `search_result_panels`!
+2024-06-05 11:59:02 - Try-1 to find `comments group`
+2024-06-05 11:59:02 - Found `comments_group`!
+2024-06-05 11:59:04 - `expanded button` did not disappear within the time limit.
+2024-06-05 11:59:04 - Finding `comment`-2 in block
+2024-06-05 11:59:04 - Found `comment` in block!
+2024-06-05 11:59:05 - Not found `expanded button`, retrying...
+2024-06-05 11:59:05 - Finding `comment`-3 in block
+2024-06-05 11:59:05 - Found `comment` in block!
+2024-06-05 11:59:06 - Re-finding comment_blocks
+2024-06-05 11:59:06 - No new comments found, stopping
+2024-06-05 11:59:06 - Finding `shop_information`
+2024-06-05 11:59:06 - Try-1 to find `shop information`
+2024-06-05 11:59:06 - Finding `search_result_panels`
+2024-06-05 11:59:06 - Finding `panels`
+2024-06-05 11:59:06 - Found `panels`!
+2024-06-05 11:59:06 - Found `search_result_panels`!
+2024-06-05 11:59:06 - Found `shop information`!
+2024-06-05 11:59:08 - Try-1 to find `comment button`
+2024-06-05 11:59:08 - Finding `search_result_panels`
+2024-06-05 11:59:08 - Finding `panels`
+2024-06-05 11:59:08 - Found `panels`!
+2024-06-05 11:59:08 - Found `search_result_panels`!
+2024-06-05 11:59:09 - Try-2 to find `comment button`
+2024-06-05 11:59:09 - Finding `search_result_panels`
+2024-06-05 11:59:09 - Finding `panels`
+2024-06-05 11:59:09 - Found `panels`!
+2024-06-05 11:59:09 - Found `search_result_panels`!
+2024-06-05 11:59:10 - Try-3 to find `comment button`
+2024-06-05 11:59:10 - Finding `search_result_panels`
+2024-06-05 11:59:10 - Finding `panels`
+2024-06-05 11:59:10 - Found `panels`!
+2024-06-05 11:59:10 - Found `search_result_panels`!
+2024-06-05 11:59:11 - Finding `shops_list_scroll_panel`
+2024-06-05 11:59:11 - Finding `panels`
+2024-06-05 11:59:11 - Found `panels`!
+2024-06-05 11:59:11 - Found `shops_list_scroll_panel`!
+2024-06-05 11:59:15 - Finding `shops_anchors`
+2024-06-05 11:59:15 - Finding `panels`
+2024-06-05 11:59:15 - Error when finding panels: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+0   chromedriver                        0x0000000100bf64c8 chromedriver + 4302024
+1   chromedriver                        0x0000000100beee10 chromedriver + 4271632
+2   chromedriver                        0x000000010082019c chromedriver + 278940
+3   chromedriver                        0x00000001007fb474 chromedriver + 128116
+4   chromedriver                        0x0000000100887394 chromedriver + 701332
+5   chromedriver                        0x000000010089a4e4 chromedriver + 779492
+6   chromedriver                        0x0000000100857004 chromedriver + 503812
+7   chromedriver                        0x00000001008579ec chromedriver + 506348
+8   chromedriver                        0x0000000100bbe510 chromedriver + 4072720
+9   chromedriver                        0x0000000100bc2fbc chromedriver + 4091836
+10  chromedriver                        0x0000000100ba5754 chromedriver + 3970900
+11  chromedriver                        0x0000000100bc38a4 chromedriver + 4094116
+12  chromedriver                        0x0000000100b986d4 chromedriver + 3917524
+13  chromedriver                        0x0000000100be0b08 chromedriver + 4213512
+14  chromedriver                        0x0000000100be0c84 chromedriver + 4213892
+15  chromedriver                        0x0000000100beea08 chromedriver + 4270600
+16  libsystem_pthread.dylib             0x0000000182f82f94 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000182f7dd34 thread_start + 8
+
+2024-06-05 11:59:15 - Error when finding `shops_anchors`: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+0   chromedriver                        0x0000000100bf64c8 chromedriver + 4302024
+1   chromedriver                        0x0000000100beee10 chromedriver + 4271632
+2   chromedriver                        0x000000010082019c chromedriver + 278940
+3   chromedriver                        0x00000001007fb474 chromedriver + 128116
+4   chromedriver                        0x0000000100887394 chromedriver + 701332
+5   chromedriver                        0x000000010089a4e4 chromedriver + 779492
+6   chromedriver                        0x0000000100857004 chromedriver + 503812
+7   chromedriver                        0x00000001008579ec chromedriver + 506348
+8   chromedriver                        0x0000000100bbe510 chromedriver + 4072720
+9   chromedriver                        0x0000000100bc2fbc chromedriver + 4091836
+10  chromedriver                        0x0000000100ba5754 chromedriver + 3970900
+11  chromedriver                        0x0000000100bc38a4 chromedriver + 4094116
+12  chromedriver                        0x0000000100b986d4 chromedriver + 3917524
+13  chromedriver                        0x0000000100be0b08 chromedriver + 4213512
+14  chromedriver                        0x0000000100be0c84 chromedriver + 4213892
+15  chromedriver                        0x0000000100beea08 chromedriver + 4270600
+16  libsystem_pthread.dylib             0x0000000182f82f94 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000182f7dd34 thread_start + 8
+
+2024-06-05 12:00:10 - Finding `shops_anchors`
+2024-06-05 12:00:10 - Finding `panels`
+2024-06-05 12:00:10 - Found `panels`!
+2024-06-05 12:00:11 - Found `shops_anchors`!
+2024-06-05 12:00:11 - Finding `shop_information`
+2024-06-05 12:00:11 - Try-1 to find `shop information`
+2024-06-05 12:00:11 - Finding `search_result_panels`
+2024-06-05 12:00:11 - Finding `panels`
+2024-06-05 12:00:11 - Found `panels`!
+2024-06-05 12:00:12 - Found `search_result_panels`!
+2024-06-05 12:00:12 - Found `shop information`!
+2024-06-05 12:00:14 - Try-1 to find `comment button`
+2024-06-05 12:00:14 - Finding `search_result_panels`
+2024-06-05 12:00:14 - Finding `panels`
+2024-06-05 12:00:14 - Found `panels`!
+2024-06-05 12:00:14 - Found `search_result_panels`!
+2024-06-05 12:00:14 - Found `comment button`!
+2024-06-05 12:00:15 - Try-1 to find `radiogroup`
+2024-06-05 12:00:15 - Finding `search_result_panels`
+2024-06-05 12:00:15 - Finding `panels`
+2024-06-05 12:00:15 - Found `panels`!
+2024-06-05 12:00:15 - Found `search_result_panels`!
+2024-06-05 12:00:16 - Found `radiogroup`! Finding `radios`
+2024-06-05 12:00:16 - Finding `search_result_panels`
+2024-06-05 12:00:16 - Finding `panels`
+2024-06-05 12:00:16 - Found `panels`!
+2024-06-05 12:00:16 - Found `search_result_panels`!
+2024-06-05 12:00:16 - Found `radios`!
+2024-06-05 12:00:16 - Finding comments
+2024-06-05 12:00:16 - Finding `search_result_panels`
+2024-06-05 12:00:16 - Finding `panels`
+2024-06-05 12:00:16 - Found `panels`!
+2024-06-05 12:00:16 - Found `search_result_panels`!
+2024-06-05 12:00:17 - Try-1 to find `comments group`
+2024-06-05 12:00:17 - Found `comments_group`!
+2024-06-05 13:21:41 - Finding `shops_anchors`
+2024-06-05 13:21:41 - Finding `panels`
+2024-06-05 13:21:41 - Found `panels`!
+2024-06-05 13:21:42 - Found `shops_anchors`!
+2024-06-05 13:21:42 - Finding `shop_information`
+2024-06-05 13:21:42 - Try-1 to find `shop information`
+2024-06-05 13:21:42 - Finding `search_result_panels`
+2024-06-05 13:21:42 - Finding `panels`
+2024-06-05 13:21:42 - Found `panels`!
+2024-06-05 13:21:43 - Found `search_result_panels`!
+2024-06-05 13:21:43 - Found `shop information`!
+2024-06-05 13:21:45 - Try-1 to find `comment button`
+2024-06-05 13:21:45 - Finding `search_result_panels`
+2024-06-05 13:21:45 - Finding `panels`
+2024-06-05 13:21:45 - Found `panels`!
+2024-06-05 13:21:45 - Found `search_result_panels`!
+2024-06-05 13:21:45 - Found `comment button`!
+2024-06-05 13:21:46 - Try-1 to find `radiogroup`
+2024-06-05 13:21:46 - Finding `search_result_panels`
+2024-06-05 13:21:46 - Finding `panels`
+2024-06-05 13:21:46 - Found `panels`!
+2024-06-05 13:21:46 - Found `search_result_panels`!
+2024-06-05 13:21:47 - Found `radiogroup`! Finding `radios`
+2024-06-05 13:21:47 - Finding `search_result_panels`
+2024-06-05 13:21:47 - Finding `panels`
+2024-06-05 13:21:47 - Found `panels`!
+2024-06-05 13:21:47 - Found `search_result_panels`!
+2024-06-05 13:21:47 - Found `radios`!
+2024-06-05 13:21:47 - Finding comments
+2024-06-05 13:21:47 - Finding `search_result_panels`
+2024-06-05 13:21:47 - Finding `panels`
+2024-06-05 13:21:47 - Found `panels`!
+2024-06-05 13:21:47 - Found `search_result_panels`!
+2024-06-05 13:21:48 - Try-1 to find `comments group`
+2024-06-05 13:21:48 - Found `comments_group`!
+2024-06-05 13:21:50 - `expanded button` did not disappear within the time limit.
+2024-06-05 13:21:50 - Finding `comment`-2 in block
+2024-06-05 13:21:50 - Found `comment` in block!
+2024-06-05 13:21:52 - `expanded button` did not disappear within the time limit.
+2024-06-05 13:21:52 - Finding `comment`-3 in block
+2024-06-05 13:21:52 - Found `comment` in block!
+2024-06-05 13:21:54 - `expanded button` did not disappear within the time limit.
+2024-06-05 13:21:54 - Finding `comment`-4 in block
+2024-06-05 13:21:54 - Found `comment` in block!
+2024-06-05 13:21:56 - `expanded button` did not disappear within the time limit.
+2024-06-05 13:21:56 - Finding `comment`-5 in block
+2024-06-05 13:21:56 - Found `comment` in block!
+2024-06-05 13:21:57 - Not found `expanded button`, retrying...
+2024-06-05 13:21:57 - Finding `comment`-6 in block
+2024-06-05 13:21:57 - Found `comment` in block!
+2024-06-05 13:21:58 - Not found `expanded button`, retrying...
+2024-06-05 13:21:58 - Finding `comment`-7 in block
+2024-06-05 13:21:58 - Found `comment` in block!
+2024-06-05 13:21:59 - Not found `expanded button`, retrying...
+2024-06-05 13:21:59 - Finding `comment`-8 in block
+2024-06-05 13:21:59 - Found `comment` in block!
+2024-06-05 13:22:00 - Not found `expanded button`, retrying...
+2024-06-05 13:22:00 - Finding `comment`-9 in block
+2024-06-05 13:22:00 - Found `comment` in block!
+2024-06-05 13:22:03 - `expanded button` did not disappear within the time limit.
+2024-06-05 13:22:03 - Finding `comment`-10 in block
+2024-06-05 13:22:03 - Found `comment` in block!
+2024-06-05 13:22:04 - Not found `expanded button`, retrying...
+2024-06-05 13:22:04 - Finding `comment`-11 in block
+2024-06-05 13:22:04 - Found `comment` in block!
+2024-06-05 13:22:06 - `expanded button` did not disappear within the time limit.
+2024-06-05 13:22:06 - Finding `comment`-12 in block
+2024-06-05 13:22:06 - Found `comment` in block!
+2024-06-05 13:22:07 - Not found `expanded button`, retrying...
+2024-06-05 13:22:07 - Finding `comment`-13 in block
+2024-06-05 13:22:07 - Found `comment` in block!
+2024-06-05 13:22:08 - Not found `expanded button`, retrying...
+2024-06-05 13:22:08 - Finding `comment`-14 in block
+2024-06-05 13:22:08 - Found `comment` in block!
+2024-06-05 13:22:10 - `expanded button` did not disappear within the time limit.
+2024-06-05 13:22:10 - Finding `comment`-15 in block
+2024-06-05 13:22:10 - Found `comment` in block!
+2024-06-05 13:22:11 - Not found `expanded button`, retrying...
+2024-06-05 13:22:11 - Finding `comment`-16 in block
+2024-06-05 13:22:11 - Found `comment` in block!
+2024-06-05 13:22:12 - Not found `expanded button`, retrying...
+2024-06-05 13:22:12 - Finding `comment`-17 in block
+2024-06-05 13:22:12 - Found `comment` in block!
+2024-06-05 13:22:13 - Not found `expanded button`, retrying...
+2024-06-05 13:22:13 - Finding `comment`-18 in block
+2024-06-05 13:22:13 - Found `comment` in block!
+2024-06-05 13:22:14 - Not found `expanded button`, retrying...
+2024-06-05 13:22:14 - Finding `comment`-19 in block
+2024-06-05 13:22:14 - Found `comment` in block!
+2024-06-05 13:22:15 - Not found `expanded button`, retrying...
+2024-06-05 13:22:15 - Finding `comment`-20 in block
+2024-06-05 13:22:15 - Found `comment` in block!
+2024-06-05 13:22:16 - Not found `expanded button`, retrying...
+2024-06-05 13:22:16 - Finding `comment`-21 in block
+2024-06-05 13:22:16 - Found `comment` in block!
+2024-06-05 13:22:17 - Re-finding comment_blocks
+2024-06-05 13:22:18 - Not found `expanded button`, retrying...
+2024-06-05 13:22:18 - Finding `comment`-22 in block
+2024-06-05 13:22:18 - Found `comment` in block!
+2024-06-05 13:22:19 - Not found `expanded button`, retrying...
+2024-06-05 13:22:19 - Finding `comment`-23 in block
+2024-06-05 13:22:19 - Found `comment` in block!
+2024-06-05 13:22:20 - Not found `expanded button`, retrying...
+2024-06-05 13:22:20 - Finding `comment`-24 in block
+2024-06-05 13:22:20 - Found `comment` in block!
+2024-06-05 13:22:21 - Not found `expanded button`, retrying...
+2024-06-05 13:22:21 - Finding `comment`-25 in block
+2024-06-05 13:22:21 - Found `comment` in block!
+2024-06-05 13:22:22 - Not found `expanded button`, retrying...
+2024-06-05 13:22:22 - Finding `comment`-26 in block
+2024-06-05 13:22:22 - Found `comment` in block!
+2024-06-05 13:22:23 - Not found `expanded button`, retrying...
+2024-06-05 13:22:23 - Finding `comment`-27 in block
+2024-06-05 13:22:23 - Found `comment` in block!
+2024-06-05 13:22:24 - Not found `expanded button`, retrying...
+2024-06-05 13:22:24 - Finding `comment`-28 in block
+2024-06-05 13:22:24 - Found `comment` in block!
+2024-06-05 13:22:25 - Not found `expanded button`, retrying...
+2024-06-05 13:22:25 - Finding `comment`-29 in block
+2024-06-05 13:22:25 - Found `comment` in block!
+2024-06-05 13:22:26 - Not found `expanded button`, retrying...
+2024-06-05 13:22:26 - Finding `comment`-30 in block
+2024-06-05 13:22:26 - Found `comment` in block!
+2024-06-05 13:22:27 - Not found `expanded button`, retrying...
+2024-06-05 13:22:27 - Finding `comment`-31 in block
+2024-06-05 13:22:27 - Found `comment` in block!
+2024-06-05 13:22:28 - Re-finding comment_blocks
+2024-06-05 13:22:29 - Not found `expanded button`, retrying...
+2024-06-05 13:22:29 - Finding `comment`-32 in block
+2024-06-05 13:22:29 - Found `comment` in block!
+2024-06-05 13:22:31 - `expanded button` did not disappear within the time limit.
+2024-06-05 13:22:31 - Finding `comment`-33 in block
+2024-06-05 13:22:31 - Found `comment` in block!
+2024-06-05 13:22:32 - Not found `expanded button`, retrying...
+2024-06-05 13:22:32 - Finding `comment`-34 in block
+2024-06-05 13:22:32 - Found `comment` in block!
+2024-06-05 13:22:33 - Not found `expanded button`, retrying...
+2024-06-05 13:22:33 - Finding `comment`-35 in block
+2024-06-05 13:22:33 - Found `comment` in block!
+2024-06-05 13:22:34 - Not found `expanded button`, retrying...
+2024-06-05 13:22:34 - Finding `comment`-36 in block
+2024-06-05 13:22:34 - Found `comment` in block!
+2024-06-05 13:22:35 - Not found `expanded button`, retrying...
+2024-06-05 13:22:35 - Finding `comment`-37 in block
+2024-06-05 13:22:35 - Found `comment` in block!
+2024-06-05 13:22:36 - Not found `expanded button`, retrying...
+2024-06-05 13:22:36 - Finding `comment`-38 in block
+2024-06-05 13:22:36 - Found `comment` in block!
+2024-06-05 13:22:37 - Not found `expanded button`, retrying...
+2024-06-05 13:22:37 - Finding `comment`-39 in block
+2024-06-05 13:22:37 - Found `comment` in block!
+2024-06-05 13:22:38 - Not found `expanded button`, retrying...
+2024-06-05 13:22:38 - Finding `comment`-40 in block
+2024-06-05 13:22:38 - Found `comment` in block!
+2024-06-05 13:22:39 - Not found `expanded button`, retrying...
+2024-06-05 13:22:39 - Finding `comment`-41 in block
+2024-06-05 13:22:39 - Found `comment` in block!
+2024-06-05 13:22:40 - Re-finding comment_blocks
+2024-06-05 13:22:41 - Not found `expanded button`, retrying...
+2024-06-05 13:22:41 - Finding `comment`-42 in block
+2024-06-05 13:22:41 - Found `comment` in block!
+2024-06-05 13:22:42 - Not found `expanded button`, retrying...
+2024-06-05 13:22:42 - Finding `comment`-43 in block
+2024-06-05 13:22:42 - Found `comment` in block!
+2024-06-05 13:22:43 - Not found `expanded button`, retrying...
+2024-06-05 13:22:43 - Finding `comment`-44 in block
+2024-06-05 13:22:43 - Found `comment` in block!
+2024-06-05 13:22:44 - Not found `expanded button`, retrying...
+2024-06-05 13:22:44 - Finding `comment`-45 in block
+2024-06-05 13:22:44 - Found `comment` in block!
+2024-06-05 13:22:45 - Not found `expanded button`, retrying...
+2024-06-05 13:22:45 - Finding `comment`-46 in block
+2024-06-05 13:22:45 - Found `comment` in block!
+2024-06-05 13:22:46 - Not found `expanded button`, retrying...
+2024-06-05 13:22:46 - Finding `comment`-47 in block
+2024-06-05 13:22:46 - Found `comment` in block!
+2024-06-05 13:22:47 - Not found `expanded button`, retrying...
+2024-06-05 13:22:47 - Finding `comment`-48 in block
+2024-06-05 13:22:47 - Found `comment` in block!
+2024-06-05 13:22:48 - Not found `expanded button`, retrying...
+2024-06-05 13:22:48 - Finding `comment`-49 in block
+2024-06-05 13:22:48 - Found `comment` in block!
+2024-06-05 13:22:49 - Re-finding comment_blocks
+2024-06-05 13:22:49 - No new comments found, stopping
+2024-06-05 13:22:49 - Saved JSON data to ./dat/SmileJoyce微微笑手作坊.json
+2024-06-05 13:22:50 - Finding `shop_information`
+2024-06-05 13:22:50 - Try-1 to find `shop information`
+2024-06-05 13:22:50 - Finding `search_result_panels`
+2024-06-05 13:22:50 - Finding `panels`
+2024-06-05 13:22:50 - Found `panels`!
+2024-06-05 13:22:50 - Found `search_result_panels`!
+2024-06-05 13:22:50 - Found `shop information`!
+2024-06-05 13:22:52 - Try-1 to find `comment button`
+2024-06-05 13:22:52 - Finding `search_result_panels`
+2024-06-05 13:22:52 - Finding `panels`
+2024-06-05 13:22:52 - Found `panels`!
+2024-06-05 13:22:52 - Found `search_result_panels`!
+2024-06-05 13:22:52 - Found `comment button`!
+2024-06-05 13:22:53 - Try-1 to find `radiogroup`
+2024-06-05 13:22:53 - Finding `search_result_panels`
+2024-06-05 13:22:53 - Finding `panels`
+2024-06-05 13:22:53 - Found `panels`!
+2024-06-05 13:22:53 - Found `search_result_panels`!
+2024-06-05 13:22:55 - Not found radiogroup, retrying...
+2024-06-05 13:22:56 - Try-2 to find `radiogroup`
+2024-06-05 13:22:56 - Finding `search_result_panels`
+2024-06-05 13:22:56 - Finding `panels`
+2024-06-05 13:22:56 - Found `panels`!
+2024-06-05 13:22:56 - Found `search_result_panels`!
+2024-06-05 13:22:57 - Not found radiogroup, retrying...
+2024-06-05 13:22:58 - Try-3 to find `radiogroup`
+2024-06-05 13:22:58 - Finding `search_result_panels`
+2024-06-05 13:22:58 - Finding `panels`
+2024-06-05 13:22:58 - Found `panels`!
+2024-06-05 13:22:58 - Found `search_result_panels`!
+2024-06-05 13:23:00 - Not found radiogroup, retrying...
+2024-06-05 13:23:01 - Failed to find `radiogroup` after multiple retries
+2024-06-05 13:23:01 - Finding comments
+2024-06-05 13:23:01 - Finding `search_result_panels`
+2024-06-05 13:23:01 - Finding `panels`
+2024-06-05 13:23:01 - Found `panels`!
+2024-06-05 13:23:01 - Found `search_result_panels`!
+2024-06-05 13:23:02 - Try-1 to find `comments group`
+2024-06-05 13:23:02 - Found `comments_group`!
+2024-06-05 13:23:04 - `expanded button` did not disappear within the time limit.
+2024-06-05 13:23:04 - Finding `comment`-2 in block
+2024-06-05 13:23:04 - Found `comment` in block!
+2024-06-05 13:23:05 - Not found `expanded button`, retrying...
+2024-06-05 13:23:05 - Finding `comment`-3 in block
+2024-06-05 13:23:05 - Found `comment` in block!
+2024-06-05 13:23:06 - Re-finding comment_blocks
+2024-06-05 13:23:06 - No new comments found, stopping
+2024-06-05 13:23:06 - Saved JSON data to ./dat/流口水雞蛋糕.json
+2024-06-05 13:23:06 - Finding `shop_information`
+2024-06-05 13:23:06 - Try-1 to find `shop information`
+2024-06-05 13:23:06 - Finding `search_result_panels`
+2024-06-05 13:23:06 - Finding `panels`
+2024-06-05 13:23:06 - Found `panels`!
+2024-06-05 13:23:06 - Found `search_result_panels`!
+2024-06-05 13:23:06 - Found `shop information`!
+2024-06-05 13:23:08 - Try-1 to find `comment button`
+2024-06-05 13:23:08 - Finding `search_result_panels`
+2024-06-05 13:23:08 - Finding `panels`
+2024-06-05 13:23:08 - Found `panels`!
+2024-06-05 13:23:08 - Found `search_result_panels`!
+2024-06-05 13:23:08 - Found `comment button`!
+2024-06-05 13:23:09 - Try-1 to find `radiogroup`
+2024-06-05 13:23:09 - Finding `search_result_panels`
+2024-06-05 13:23:09 - Finding `panels`
+2024-06-05 13:23:09 - Found `panels`!
+2024-06-05 13:23:10 - Found `search_result_panels`!
+2024-06-05 13:23:11 - Found `radiogroup`! Finding `radios`
+2024-06-05 13:23:11 - Finding `search_result_panels`
+2024-06-05 13:23:11 - Finding `panels`
+2024-06-05 13:23:11 - Found `panels`!
+2024-06-05 13:23:11 - Found `search_result_panels`!
+2024-06-05 13:23:11 - Found `radios`!
+2024-06-05 13:23:11 - Finding comments
+2024-06-05 13:23:11 - Finding `search_result_panels`
+2024-06-05 13:23:11 - Finding `panels`
+2024-06-05 13:23:11 - Found `panels`!
+2024-06-05 13:23:11 - Found `search_result_panels`!
+2024-06-05 13:23:12 - Try-1 to find `comments group`
+2024-06-05 13:23:12 - Found `comments_group`!
+2024-06-05 13:23:14 - `expanded button` did not disappear within the time limit.
+2024-06-05 13:23:14 - Finding `comment`-2 in block
+2024-06-05 13:23:14 - Found `comment` in block!
+2024-06-05 13:23:15 - Not found `expanded button`, retrying...
+2024-06-05 13:23:15 - Finding `comment`-3 in block
+2024-06-05 13:23:15 - Found `comment` in block!
+2024-06-05 13:23:17 - `expanded button` did not disappear within the time limit.
+2024-06-05 13:23:17 - Finding `comment`-4 in block
+2024-06-05 13:23:17 - Found `comment` in block!
+2024-06-05 13:23:18 - Not found `expanded button`, retrying...
+2024-06-05 13:23:18 - Finding `comment`-5 in block
+2024-06-05 13:23:18 - Found `comment` in block!
+2024-06-05 13:23:19 - Not found `expanded button`, retrying...
+2024-06-05 13:23:19 - Finding `comment`-6 in block
+2024-06-05 13:23:19 - Found `comment` in block!
+2024-06-05 13:23:20 - Not found `expanded button`, retrying...
+2024-06-05 13:23:20 - Finding `comment`-7 in block
+2024-06-05 13:23:20 - Found `comment` in block!
+2024-06-05 13:23:21 - Not found `expanded button`, retrying...
+2024-06-05 13:23:21 - Finding `comment`-8 in block
+2024-06-05 13:23:21 - Found `comment` in block!
+2024-06-05 13:23:22 - Not found `expanded button`, retrying...
+2024-06-05 13:23:22 - Finding `comment`-9 in block
+2024-06-05 13:23:22 - Found `comment` in block!
+2024-06-05 13:23:23 - Not found `expanded button`, retrying...
+2024-06-05 13:23:23 - Finding `comment`-10 in block
+2024-06-05 13:23:23 - Found `comment` in block!
+2024-06-05 13:23:24 - Not found `expanded button`, retrying...
+2024-06-05 13:23:24 - Finding `comment`-11 in block
+2024-06-05 13:23:24 - Found `comment` in block!
+2024-06-05 13:23:25 - Re-finding comment_blocks
+2024-06-05 13:23:26 - Not found `expanded button`, retrying...
+2024-06-05 13:23:26 - Finding `comment`-12 in block
+2024-06-05 13:23:26 - Found `comment` in block!
+2024-06-05 13:23:27 - Not found `expanded button`, retrying...
+2024-06-05 13:23:27 - Finding `comment`-13 in block
+2024-06-05 13:23:27 - Found `comment` in block!
+2024-06-05 13:23:28 - Not found `expanded button`, retrying...
+2024-06-05 13:23:28 - Finding `comment`-14 in block
+2024-06-05 13:23:28 - Found `comment` in block!
+2024-06-05 13:23:29 - Not found `expanded button`, retrying...
+2024-06-05 13:23:29 - Finding `comment`-15 in block
+2024-06-05 13:23:29 - Found `comment` in block!
+2024-06-05 13:23:30 - Not found `expanded button`, retrying...
+2024-06-05 13:23:30 - Finding `comment`-16 in block
+2024-06-05 13:23:30 - Found `comment` in block!
+2024-06-05 13:23:32 - `expanded button` did not disappear within the time limit.
+2024-06-05 13:23:32 - Finding `comment`-17 in block
+2024-06-05 13:23:32 - Found `comment` in block!
+2024-06-05 13:23:33 - Not found `expanded button`, retrying...
+2024-06-05 13:23:33 - Finding `comment`-18 in block
+2024-06-05 13:23:33 - Found `comment` in block!
+2024-06-05 13:23:34 - Not found `expanded button`, retrying...
+2024-06-05 13:23:34 - Finding `comment`-19 in block
+2024-06-05 13:23:34 - Found `comment` in block!
+2024-06-05 13:23:35 - Not found `expanded button`, retrying...
+2024-06-05 13:23:35 - Finding `comment`-20 in block
+2024-06-05 13:23:35 - Found `comment` in block!
+2024-06-05 13:23:36 - Not found `expanded button`, retrying...
+2024-06-05 13:23:36 - Finding `comment`-21 in block
+2024-06-05 13:23:36 - Found `comment` in block!
+2024-06-05 13:23:37 - Re-finding comment_blocks
+2024-06-05 13:23:38 - Not found `expanded button`, retrying...
+2024-06-05 13:23:38 - Finding `comment`-22 in block
+2024-06-05 13:23:38 - Found `comment` in block!
+2024-06-05 13:23:39 - Not found `expanded button`, retrying...
+2024-06-05 13:23:39 - Finding `comment`-23 in block
+2024-06-05 13:23:39 - Found `comment` in block!
+2024-06-05 13:23:40 - Not found `expanded button`, retrying...
+2024-06-05 13:23:40 - Finding `comment`-24 in block
+2024-06-05 13:23:40 - Found `comment` in block!
+2024-06-05 13:23:41 - Not found `expanded button`, retrying...
+2024-06-05 13:23:41 - Finding `comment`-25 in block
+2024-06-05 13:23:41 - Found `comment` in block!
+2024-06-05 13:23:42 - Not found `expanded button`, retrying...
+2024-06-05 13:23:42 - Finding `comment`-26 in block
+2024-06-05 13:23:42 - Found `comment` in block!
+2024-06-05 13:23:43 - Re-finding comment_blocks
+2024-06-05 13:23:43 - No new comments found, stopping
+2024-06-05 13:23:43 - Saved JSON data to ./dat/小栗鼠cafe.json
+2024-06-05 13:23:44 - Finding `shop_information`
+2024-06-05 13:23:44 - Try-1 to find `shop information`
+2024-06-05 13:23:44 - Finding `search_result_panels`
+2024-06-05 13:23:44 - Finding `panels`
+2024-06-05 13:23:44 - Found `panels`!
+2024-06-05 13:23:44 - Found `search_result_panels`!
+2024-06-05 13:23:44 - Found `shop information`!
+2024-06-05 13:23:46 - Try-1 to find `comment button`
+2024-06-05 13:23:46 - Finding `search_result_panels`
+2024-06-05 13:23:46 - Finding `panels`
+2024-06-05 13:23:46 - Found `panels`!
+2024-06-05 13:23:46 - Found `search_result_panels`!
+2024-06-05 13:23:46 - Found `comment button`!
+2024-06-05 13:23:47 - Try-1 to find `radiogroup`
+2024-06-05 13:23:47 - Finding `search_result_panels`
+2024-06-05 13:23:47 - Finding `panels`
+2024-06-05 13:23:47 - Found `panels`!
+2024-06-05 13:23:47 - Found `search_result_panels`!
+2024-06-05 13:23:48 - Found `radiogroup`! Finding `radios`
+2024-06-05 13:23:48 - Finding `search_result_panels`
+2024-06-05 13:23:48 - Finding `panels`
+2024-06-05 13:23:48 - Found `panels`!
+2024-06-05 13:23:48 - Found `search_result_panels`!
+2024-06-05 13:23:48 - Found `radios`!
+2024-06-05 13:23:48 - Finding comments
+2024-06-05 13:23:48 - Finding `search_result_panels`
+2024-06-05 13:23:48 - Finding `panels`
+2024-06-05 13:23:48 - Found `panels`!
+2024-06-05 13:23:48 - Found `search_result_panels`!
+2024-06-05 13:23:49 - Try-1 to find `comments group`
+2024-06-05 13:23:49 - Found `comments_group`!
+2024-06-05 13:23:50 - Not found `expanded button`, retrying...
+2024-06-05 13:23:50 - Finding `comment`-2 in block
+2024-06-05 13:23:50 - Found `comment` in block!
+2024-06-05 13:23:51 - Not found `expanded button`, retrying...
+2024-06-05 13:23:51 - Finding `comment`-3 in block
+2024-06-05 13:23:51 - Found `comment` in block!
+2024-06-05 13:23:53 - `expanded button` did not disappear within the time limit.
+2024-06-05 13:23:53 - Finding `comment`-4 in block
+2024-06-05 13:23:53 - Found `comment` in block!
+2024-06-05 13:23:55 - `expanded button` did not disappear within the time limit.
+2024-06-05 13:23:55 - Finding `comment`-5 in block
+2024-06-05 15:47:18 - Finding `shops_anchors`
+2024-06-05 15:47:18 - Finding `panels`
+2024-06-05 15:47:18 - Found `panels`!
+2024-06-05 15:47:21 - Found `shops_anchors`!
+2024-06-05 15:47:21 - Finding `shop_information`
+2024-06-05 15:47:21 - Try-1 to find `shop information`
+2024-06-05 15:47:21 - Finding `search_result_panels`
+2024-06-05 15:47:21 - Finding `panels`
+2024-06-05 15:47:21 - Found `panels`!
+2024-06-05 15:47:21 - Found `search_result_panels`!
+2024-06-05 15:47:21 - Found `shop information`!
+2024-06-05 15:47:23 - Finding `shop_information`
+2024-06-05 15:47:23 - Try-1 to find `shop information`
+2024-06-05 15:47:23 - Finding `search_result_panels`
+2024-06-05 15:47:23 - Finding `panels`
+2024-06-05 15:47:23 - Found `panels`!
+2024-06-05 15:47:23 - Found `search_result_panels`!
+2024-06-05 15:47:23 - Found `shop information`!
+2024-06-05 15:47:25 - Finding `shop_information`
+2024-06-05 15:47:25 - Try-1 to find `shop information`
+2024-06-05 15:47:25 - Finding `search_result_panels`
+2024-06-05 15:47:25 - Finding `panels`
+2024-06-05 15:47:25 - Found `panels`!
+2024-06-05 15:47:25 - Found `search_result_panels`!
+2024-06-05 15:47:25 - Found `shop information`!
+2024-06-05 15:47:27 - Finding `shop_information`
+2024-06-05 15:47:27 - Try-1 to find `shop information`
+2024-06-05 15:47:27 - Finding `search_result_panels`
+2024-06-05 15:47:27 - Finding `panels`
+2024-06-05 15:47:27 - Found `panels`!
+2024-06-05 15:47:27 - Found `search_result_panels`!
+2024-06-05 15:47:27 - Found `shop information`!
+2024-06-05 15:47:30 - Finding `shop_information`
+2024-06-05 15:47:30 - Try-1 to find `shop information`
+2024-06-05 15:47:30 - Finding `search_result_panels`
+2024-06-05 15:47:30 - Finding `panels`
+2024-06-05 15:47:30 - Found `panels`!
+2024-06-05 15:47:30 - Found `search_result_panels`!
+2024-06-05 15:47:30 - Found `shop information`!
+2024-06-05 15:47:32 - Finding `shops_list_scroll_panel`
+2024-06-05 15:47:32 - Finding `panels`
+2024-06-05 15:47:32 - Error when finding panels: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+0   chromedriver                        0x00000001046864c8 chromedriver + 4302024
+1   chromedriver                        0x000000010467ee10 chromedriver + 4271632
+2   chromedriver                        0x00000001042b019c chromedriver + 278940
+3   chromedriver                        0x000000010428b474 chromedriver + 128116
+4   chromedriver                        0x0000000104317394 chromedriver + 701332
+5   chromedriver                        0x000000010432a4e4 chromedriver + 779492
+6   chromedriver                        0x00000001042e7004 chromedriver + 503812
+7   chromedriver                        0x00000001042e79ec chromedriver + 506348
+8   chromedriver                        0x000000010464e510 chromedriver + 4072720
+9   chromedriver                        0x0000000104652fbc chromedriver + 4091836
+10  chromedriver                        0x0000000104635754 chromedriver + 3970900
+11  chromedriver                        0x00000001046538a4 chromedriver + 4094116
+12  chromedriver                        0x00000001046286d4 chromedriver + 3917524
+13  chromedriver                        0x0000000104670b08 chromedriver + 4213512
+14  chromedriver                        0x0000000104670c84 chromedriver + 4213892
+15  chromedriver                        0x000000010467ea08 chromedriver + 4270600
+16  libsystem_pthread.dylib             0x0000000182f82f94 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000182f7dd34 thread_start + 8
+
+2024-06-05 15:47:32 - Error when finding `shops_list_scroll_panel`: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+0   chromedriver                        0x00000001046864c8 chromedriver + 4302024
+1   chromedriver                        0x000000010467ee10 chromedriver + 4271632
+2   chromedriver                        0x00000001042b019c chromedriver + 278940
+3   chromedriver                        0x000000010428b474 chromedriver + 128116
+4   chromedriver                        0x0000000104317394 chromedriver + 701332
+5   chromedriver                        0x000000010432a4e4 chromedriver + 779492
+6   chromedriver                        0x00000001042e7004 chromedriver + 503812
+7   chromedriver                        0x00000001042e79ec chromedriver + 506348
+8   chromedriver                        0x000000010464e510 chromedriver + 4072720
+9   chromedriver                        0x0000000104652fbc chromedriver + 4091836
+10  chromedriver                        0x0000000104635754 chromedriver + 3970900
+11  chromedriver                        0x00000001046538a4 chromedriver + 4094116
+12  chromedriver                        0x00000001046286d4 chromedriver + 3917524
+13  chromedriver                        0x0000000104670b08 chromedriver + 4213512
+14  chromedriver                        0x0000000104670c84 chromedriver + 4213892
+15  chromedriver                        0x000000010467ea08 chromedriver + 4270600
+16  libsystem_pthread.dylib             0x0000000182f82f94 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000182f7dd34 thread_start + 8
+
+2024-06-05 15:47:53 - Finding `shops_anchors`
+2024-06-05 15:47:53 - Finding `panels`
+2024-06-05 15:47:53 - Found `panels`!
+2024-06-05 15:47:56 - Found `shops_anchors`!
+2024-06-05 15:47:56 - Finding `shop_information`
+2024-06-05 15:47:56 - Try-1 to find `shop information`
+2024-06-05 15:47:56 - Finding `search_result_panels`
+2024-06-05 15:47:56 - Finding `panels`
+2024-06-05 15:47:56 - Found `panels`!
+2024-06-05 15:47:57 - Found `search_result_panels`!
+2024-06-05 15:47:57 - Found `shop information`!
+2024-06-05 15:47:59 - Try-1 to find `comment button`
+2024-06-05 15:47:59 - Finding `search_result_panels`
+2024-06-05 15:47:59 - Finding `panels`
+2024-06-05 15:47:59 - Found `panels`!
+2024-06-05 15:47:59 - Found `search_result_panels`!
+2024-06-05 15:47:59 - Found `comment button`!
+2024-06-05 15:48:00 - Try-1 to find `radiogroup`
+2024-06-05 15:48:00 - Finding `search_result_panels`
+2024-06-05 15:48:00 - Finding `panels`
+2024-06-05 15:48:00 - Found `panels`!
+2024-06-05 15:48:00 - Found `search_result_panels`!
+2024-06-05 15:48:01 - Found `radiogroup`! Finding `radios`
+2024-06-05 15:48:01 - Finding `search_result_panels`
+2024-06-05 15:48:01 - Finding `panels`
+2024-06-05 15:48:01 - Found `panels`!
+2024-06-05 15:48:01 - Found `search_result_panels`!
+2024-06-05 15:48:01 - Found `radios`!
+2024-06-05 15:48:01 - Finding comments
+2024-06-05 15:48:01 - Finding `search_result_panels`
+2024-06-05 15:48:01 - Finding `panels`
+2024-06-05 15:48:01 - Found `panels`!
+2024-06-05 15:48:01 - Found `search_result_panels`!
+2024-06-05 15:48:02 - Try-1 to find `comments group`
+2024-06-05 15:48:02 - Found `comments_group`!
+2024-06-05 15:48:04 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:48:04 - Finding `comment`-2 in block
+2024-06-05 15:48:04 - Found `comment` in block!
+2024-06-05 15:48:06 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:48:06 - Finding `comment`-3 in block
+2024-06-05 15:48:06 - Found `comment` in block!
+2024-06-05 15:48:08 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:48:08 - Finding `comment`-4 in block
+2024-06-05 15:48:08 - Found `comment` in block!
+2024-06-05 15:48:10 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:48:10 - Finding `comment`-5 in block
+2024-06-05 15:48:10 - Found `comment` in block!
+2024-06-05 15:48:11 - Not found `expanded button`, retrying...
+2024-06-05 15:48:11 - Finding `comment`-6 in block
+2024-06-05 15:48:11 - Found `comment` in block!
+2024-06-05 15:48:12 - Not found `expanded button`, retrying...
+2024-06-05 15:48:12 - Finding `comment`-7 in block
+2024-06-05 15:48:12 - Found `comment` in block!
+2024-06-05 15:48:13 - Not found `expanded button`, retrying...
+2024-06-05 15:48:13 - Finding `comment`-8 in block
+2024-06-05 15:48:13 - Found `comment` in block!
+2024-06-05 15:48:14 - Not found `expanded button`, retrying...
+2024-06-05 15:48:14 - Finding `comment`-9 in block
+2024-06-05 15:48:14 - Found `comment` in block!
+2024-06-05 15:48:16 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:48:16 - Finding `comment`-10 in block
+2024-06-05 15:48:16 - Found `comment` in block!
+2024-06-05 15:48:17 - Not found `expanded button`, retrying...
+2024-06-05 15:48:17 - Finding `comment`-11 in block
+2024-06-05 15:48:17 - Found `comment` in block!
+2024-06-05 15:48:19 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:48:19 - Finding `comment`-12 in block
+2024-06-05 15:48:19 - Found `comment` in block!
+2024-06-05 15:48:20 - Not found `expanded button`, retrying...
+2024-06-05 15:48:20 - Finding `comment`-13 in block
+2024-06-05 15:48:20 - Found `comment` in block!
+2024-06-05 15:48:21 - Not found `expanded button`, retrying...
+2024-06-05 15:48:21 - Finding `comment`-14 in block
+2024-06-05 15:48:21 - Found `comment` in block!
+2024-06-05 15:48:23 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:48:23 - Finding `comment`-15 in block
+2024-06-05 15:48:23 - Found `comment` in block!
+2024-06-05 15:48:24 - Not found `expanded button`, retrying...
+2024-06-05 15:48:24 - Finding `comment`-16 in block
+2024-06-05 15:48:24 - Found `comment` in block!
+2024-06-05 15:48:25 - Not found `expanded button`, retrying...
+2024-06-05 15:48:25 - Finding `comment`-17 in block
+2024-06-05 15:48:25 - Found `comment` in block!
+2024-06-05 15:48:27 - Not found `expanded button`, retrying...
+2024-06-05 15:48:27 - Finding `comment`-18 in block
+2024-06-05 15:48:27 - Found `comment` in block!
+2024-06-05 15:48:28 - Not found `expanded button`, retrying...
+2024-06-05 15:48:28 - Finding `comment`-19 in block
+2024-06-05 15:48:28 - Found `comment` in block!
+2024-06-05 15:48:29 - Not found `expanded button`, retrying...
+2024-06-05 15:48:29 - Finding `comment`-20 in block
+2024-06-05 15:48:29 - Found `comment` in block!
+2024-06-05 15:48:30 - Not found `expanded button`, retrying...
+2024-06-05 15:48:30 - Finding `comment`-21 in block
+2024-06-05 15:48:30 - Found `comment` in block!
+2024-06-05 15:48:31 - Re-finding comment_blocks
+2024-06-05 15:48:32 - Not found `expanded button`, retrying...
+2024-06-05 15:48:32 - Finding `comment`-22 in block
+2024-06-05 15:48:32 - Found `comment` in block!
+2024-06-05 15:48:33 - Not found `expanded button`, retrying...
+2024-06-05 15:48:33 - Finding `comment`-23 in block
+2024-06-05 15:48:33 - Found `comment` in block!
+2024-06-05 15:48:34 - Not found `expanded button`, retrying...
+2024-06-05 15:48:34 - Finding `comment`-24 in block
+2024-06-05 15:48:34 - Found `comment` in block!
+2024-06-05 15:48:35 - Not found `expanded button`, retrying...
+2024-06-05 15:48:35 - Finding `comment`-25 in block
+2024-06-05 15:48:35 - Found `comment` in block!
+2024-06-05 15:48:36 - Not found `expanded button`, retrying...
+2024-06-05 15:48:36 - Finding `comment`-26 in block
+2024-06-05 15:48:36 - Found `comment` in block!
+2024-06-05 15:48:37 - Not found `expanded button`, retrying...
+2024-06-05 15:48:37 - Finding `comment`-27 in block
+2024-06-05 15:48:37 - Found `comment` in block!
+2024-06-05 15:48:38 - Not found `expanded button`, retrying...
+2024-06-05 15:48:38 - Finding `comment`-28 in block
+2024-06-05 15:48:38 - Found `comment` in block!
+2024-06-05 15:48:39 - Not found `expanded button`, retrying...
+2024-06-05 15:48:39 - Finding `comment`-29 in block
+2024-06-05 15:48:39 - Found `comment` in block!
+2024-06-05 15:48:40 - Not found `expanded button`, retrying...
+2024-06-05 15:48:40 - Finding `comment`-30 in block
+2024-06-05 15:48:40 - Found `comment` in block!
+2024-06-05 15:48:41 - Not found `expanded button`, retrying...
+2024-06-05 15:48:41 - Finding `comment`-31 in block
+2024-06-05 15:48:41 - Found `comment` in block!
+2024-06-05 15:48:42 - Re-finding comment_blocks
+2024-06-05 15:48:43 - Not found `expanded button`, retrying...
+2024-06-05 15:48:43 - Finding `comment`-32 in block
+2024-06-05 15:48:43 - Found `comment` in block!
+2024-06-05 15:48:45 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:48:45 - Finding `comment`-33 in block
+2024-06-05 15:48:45 - Found `comment` in block!
+2024-06-05 15:48:46 - Not found `expanded button`, retrying...
+2024-06-05 15:48:46 - Finding `comment`-34 in block
+2024-06-05 15:48:46 - Found `comment` in block!
+2024-06-05 15:48:47 - Not found `expanded button`, retrying...
+2024-06-05 15:48:47 - Finding `comment`-35 in block
+2024-06-05 15:48:47 - Found `comment` in block!
+2024-06-05 15:48:48 - Not found `expanded button`, retrying...
+2024-06-05 15:48:48 - Finding `comment`-36 in block
+2024-06-05 15:48:48 - Found `comment` in block!
+2024-06-05 15:48:49 - Not found `expanded button`, retrying...
+2024-06-05 15:48:49 - Finding `comment`-37 in block
+2024-06-05 15:48:49 - Found `comment` in block!
+2024-06-05 15:48:50 - Not found `expanded button`, retrying...
+2024-06-05 15:48:50 - Finding `comment`-38 in block
+2024-06-05 15:48:50 - Found `comment` in block!
+2024-06-05 15:48:51 - Not found `expanded button`, retrying...
+2024-06-05 15:48:51 - Finding `comment`-39 in block
+2024-06-05 15:48:51 - Found `comment` in block!
+2024-06-05 15:48:52 - Not found `expanded button`, retrying...
+2024-06-05 15:48:52 - Finding `comment`-40 in block
+2024-06-05 15:48:52 - Found `comment` in block!
+2024-06-05 15:48:53 - Not found `expanded button`, retrying...
+2024-06-05 15:48:53 - Finding `comment`-41 in block
+2024-06-05 15:48:53 - Found `comment` in block!
+2024-06-05 15:48:54 - Re-finding comment_blocks
+2024-06-05 15:48:55 - Not found `expanded button`, retrying...
+2024-06-05 15:48:55 - Finding `comment`-42 in block
+2024-06-05 15:48:55 - Found `comment` in block!
+2024-06-05 15:48:56 - Not found `expanded button`, retrying...
+2024-06-05 15:48:56 - Finding `comment`-43 in block
+2024-06-05 15:48:56 - Found `comment` in block!
+2024-06-05 15:48:57 - Not found `expanded button`, retrying...
+2024-06-05 15:48:57 - Finding `comment`-44 in block
+2024-06-05 15:48:57 - Found `comment` in block!
+2024-06-05 15:48:58 - Not found `expanded button`, retrying...
+2024-06-05 15:48:58 - Finding `comment`-45 in block
+2024-06-05 15:48:58 - Found `comment` in block!
+2024-06-05 15:48:59 - Not found `expanded button`, retrying...
+2024-06-05 15:48:59 - Finding `comment`-46 in block
+2024-06-05 15:48:59 - Found `comment` in block!
+2024-06-05 15:49:00 - Not found `expanded button`, retrying...
+2024-06-05 15:49:00 - Finding `comment`-47 in block
+2024-06-05 15:49:00 - Found `comment` in block!
+2024-06-05 15:49:01 - Not found `expanded button`, retrying...
+2024-06-05 15:49:01 - Finding `comment`-48 in block
+2024-06-05 15:49:01 - Found `comment` in block!
+2024-06-05 15:49:02 - Not found `expanded button`, retrying...
+2024-06-05 15:49:02 - Finding `comment`-49 in block
+2024-06-05 15:49:02 - Found `comment` in block!
+2024-06-05 15:49:03 - Re-finding comment_blocks
+2024-06-05 15:49:03 - No new comments found, stopping
+2024-06-05 15:49:27 - Finding `shops_anchors`
+2024-06-05 15:49:27 - Finding `panels`
+2024-06-05 15:49:27 - Found `panels`!
+2024-06-05 15:49:30 - Found `shops_anchors`!
+2024-06-05 15:49:30 - Finding `shop_information`
+2024-06-05 15:49:30 - Try-1 to find `shop information`
+2024-06-05 15:49:30 - Finding `search_result_panels`
+2024-06-05 15:49:30 - Finding `panels`
+2024-06-05 15:49:30 - Found `panels`!
+2024-06-05 15:49:31 - Found `search_result_panels`!
+2024-06-05 15:49:31 - Found `shop information`!
+2024-06-05 15:49:33 - Try-1 to find `comment button`
+2024-06-05 15:49:33 - Finding `search_result_panels`
+2024-06-05 15:49:33 - Finding `panels`
+2024-06-05 15:49:33 - Found `panels`!
+2024-06-05 15:49:33 - Found `search_result_panels`!
+2024-06-05 15:49:33 - Found `comment button`!
+2024-06-05 15:49:34 - Try-1 to find `radiogroup`
+2024-06-05 15:49:34 - Finding `search_result_panels`
+2024-06-05 15:49:34 - Finding `panels`
+2024-06-05 15:49:34 - Found `panels`!
+2024-06-05 15:49:34 - Found `search_result_panels`!
+2024-06-05 15:49:35 - Found `radiogroup`! Finding `radios`
+2024-06-05 15:49:35 - Finding `search_result_panels`
+2024-06-05 15:49:35 - Finding `panels`
+2024-06-05 15:49:35 - Found `panels`!
+2024-06-05 15:49:35 - Found `search_result_panels`!
+2024-06-05 15:49:35 - Found `radios`!
+2024-06-05 15:49:35 - Finding comments
+2024-06-05 15:49:35 - Finding `search_result_panels`
+2024-06-05 15:49:35 - Finding `panels`
+2024-06-05 15:49:35 - Found `panels`!
+2024-06-05 15:49:35 - Found `search_result_panels`!
+2024-06-05 15:49:36 - Try-1 to find `comments group`
+2024-06-05 15:49:36 - Found `comments_group`!
+2024-06-05 15:49:38 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:49:38 - Finding `comment`-2 in block
+2024-06-05 15:49:38 - Found `comment` in block!
+2024-06-05 15:49:40 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:49:40 - Finding `comment`-3 in block
+2024-06-05 15:49:40 - Found `comment` in block!
+2024-06-05 15:49:42 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:49:42 - Finding `comment`-4 in block
+2024-06-05 15:49:42 - Found `comment` in block!
+2024-06-05 15:49:44 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:49:44 - Finding `comment`-5 in block
+2024-06-05 15:49:44 - Found `comment` in block!
+2024-06-05 15:49:45 - Not found `expanded button`, retrying...
+2024-06-05 15:49:45 - Finding `comment`-6 in block
+2024-06-05 15:49:45 - Found `comment` in block!
+2024-06-05 15:49:46 - Not found `expanded button`, retrying...
+2024-06-05 15:49:46 - Finding `comment`-7 in block
+2024-06-05 15:49:46 - Found `comment` in block!
+2024-06-05 15:49:47 - Not found `expanded button`, retrying...
+2024-06-05 15:49:47 - Finding `comment`-8 in block
+2024-06-05 15:49:47 - Found `comment` in block!
+2024-06-05 15:49:48 - Not found `expanded button`, retrying...
+2024-06-05 15:49:48 - Finding `comment`-9 in block
+2024-06-05 15:50:49 - Finding `shops_anchors`
+2024-06-05 15:50:49 - Finding `panels`
+2024-06-05 15:50:49 - Found `panels`!
+2024-06-05 15:50:52 - Found `shops_anchors`!
+2024-06-05 15:50:52 - Finding `shop_information`
+2024-06-05 15:50:52 - Try-1 to find `shop information`
+2024-06-05 15:50:52 - Finding `search_result_panels`
+2024-06-05 15:50:52 - Finding `panels`
+2024-06-05 15:50:52 - Found `panels`!
+2024-06-05 15:50:52 - Found `search_result_panels`!
+2024-06-05 15:50:52 - Found `shop information`!
+2024-06-05 15:50:54 - Try-1 to find `comment button`
+2024-06-05 15:50:54 - Finding `search_result_panels`
+2024-06-05 15:50:54 - Finding `panels`
+2024-06-05 15:50:54 - Found `panels`!
+2024-06-05 15:50:54 - Found `search_result_panels`!
+2024-06-05 15:50:54 - Found `comment button`!
+2024-06-05 15:50:55 - Try-1 to find `radiogroup`
+2024-06-05 15:50:55 - Finding `search_result_panels`
+2024-06-05 15:50:55 - Finding `panels`
+2024-06-05 15:50:55 - Found `panels`!
+2024-06-05 15:50:55 - Found `search_result_panels`!
+2024-06-05 15:50:56 - Found `radiogroup`! Finding `radios`
+2024-06-05 15:50:56 - Finding `search_result_panels`
+2024-06-05 15:50:56 - Finding `panels`
+2024-06-05 15:50:56 - Found `panels`!
+2024-06-05 15:50:56 - Found `search_result_panels`!
+2024-06-05 15:50:56 - Found `radios`!
+2024-06-05 15:50:56 - Finding comments
+2024-06-05 15:50:56 - Finding `search_result_panels`
+2024-06-05 15:50:56 - Finding `panels`
+2024-06-05 15:50:56 - Found `panels`!
+2024-06-05 15:50:56 - Found `search_result_panels`!
+2024-06-05 15:50:57 - Try-1 to find `comments group`
+2024-06-05 15:50:57 - Found `comments_group`!
+2024-06-05 15:51:00 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:51:00 - Finding `comment`-2 in block
+2024-06-05 15:51:00 - Found `comment` in block!
+2024-06-05 15:51:02 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:51:02 - Finding `comment`-3 in block
+2024-06-05 15:51:02 - Found `comment` in block!
+2024-06-05 15:51:04 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:51:04 - Finding `comment`-4 in block
+2024-06-05 15:51:04 - Found `comment` in block!
+2024-06-05 15:51:06 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:51:06 - Finding `comment`-5 in block
+2024-06-05 15:51:06 - Found `comment` in block!
+2024-06-05 15:51:07 - Not found `expanded button`, retrying...
+2024-06-05 15:51:07 - Finding `comment`-6 in block
+2024-06-05 15:51:07 - Found `comment` in block!
+2024-06-05 15:51:08 - Not found `expanded button`, retrying...
+2024-06-05 15:51:08 - Finding `comment`-7 in block
+2024-06-05 15:51:08 - Found `comment` in block!
+2024-06-05 15:51:09 - Not found `expanded button`, retrying...
+2024-06-05 15:51:09 - Finding `comment`-8 in block
+2024-06-05 15:51:09 - Found `comment` in block!
+2024-06-05 15:51:10 - Not found `expanded button`, retrying...
+2024-06-05 15:51:10 - Finding `comment`-9 in block
+2024-06-05 15:51:10 - Found `comment` in block!
+2024-06-05 15:51:12 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:51:12 - Finding `comment`-10 in block
+2024-06-05 15:51:12 - Found `comment` in block!
+2024-06-05 15:51:13 - Not found `expanded button`, retrying...
+2024-06-05 15:51:13 - Finding `comment`-11 in block
+2024-06-05 15:51:13 - Found `comment` in block!
+2024-06-05 15:51:15 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:51:15 - Finding `comment`-12 in block
+2024-06-05 15:51:15 - Found `comment` in block!
+2024-06-05 15:51:16 - Not found `expanded button`, retrying...
+2024-06-05 15:51:16 - Finding `comment`-13 in block
+2024-06-05 15:51:16 - Found `comment` in block!
+2024-06-05 15:51:17 - Not found `expanded button`, retrying...
+2024-06-05 15:51:17 - Finding `comment`-14 in block
+2024-06-05 15:51:17 - Found `comment` in block!
+2024-06-05 15:51:19 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:51:19 - Finding `comment`-15 in block
+2024-06-05 15:51:19 - Found `comment` in block!
+2024-06-05 15:51:20 - Not found `expanded button`, retrying...
+2024-06-05 15:51:20 - Finding `comment`-16 in block
+2024-06-05 15:51:20 - Found `comment` in block!
+2024-06-05 15:51:21 - Not found `expanded button`, retrying...
+2024-06-05 15:51:21 - Finding `comment`-17 in block
+2024-06-05 15:51:21 - Found `comment` in block!
+2024-06-05 15:51:22 - Not found `expanded button`, retrying...
+2024-06-05 15:51:22 - Finding `comment`-18 in block
+2024-06-05 15:51:22 - Found `comment` in block!
+2024-06-05 15:51:23 - Not found `expanded button`, retrying...
+2024-06-05 15:51:23 - Finding `comment`-19 in block
+2024-06-05 15:51:23 - Found `comment` in block!
+2024-06-05 15:51:24 - Not found `expanded button`, retrying...
+2024-06-05 15:51:24 - Finding `comment`-20 in block
+2024-06-05 15:51:24 - Found `comment` in block!
+2024-06-05 15:51:25 - Not found `expanded button`, retrying...
+2024-06-05 15:51:25 - Finding `comment`-21 in block
+2024-06-05 15:51:25 - Found `comment` in block!
+2024-06-05 15:51:26 - Re-finding comment_blocks
+2024-06-05 15:51:27 - Not found `expanded button`, retrying...
+2024-06-05 15:51:27 - Finding `comment`-22 in block
+2024-06-05 15:51:28 - Found `comment` in block!
+2024-06-05 15:51:29 - Not found `expanded button`, retrying...
+2024-06-05 15:51:29 - Finding `comment`-23 in block
+2024-06-05 15:51:29 - Found `comment` in block!
+2024-06-05 15:51:30 - Not found `expanded button`, retrying...
+2024-06-05 15:51:30 - Finding `comment`-24 in block
+2024-06-05 15:51:30 - Found `comment` in block!
+2024-06-05 15:51:31 - Not found `expanded button`, retrying...
+2024-06-05 15:51:31 - Finding `comment`-25 in block
+2024-06-05 15:51:31 - Found `comment` in block!
+2024-06-05 15:51:32 - Not found `expanded button`, retrying...
+2024-06-05 15:51:32 - Finding `comment`-26 in block
+2024-06-05 15:51:32 - Found `comment` in block!
+2024-06-05 15:51:33 - Not found `expanded button`, retrying...
+2024-06-05 15:51:33 - Finding `comment`-27 in block
+2024-06-05 15:51:33 - Found `comment` in block!
+2024-06-05 15:51:34 - Not found `expanded button`, retrying...
+2024-06-05 15:51:34 - Finding `comment`-28 in block
+2024-06-05 15:51:34 - Found `comment` in block!
+2024-06-05 15:51:35 - Not found `expanded button`, retrying...
+2024-06-05 15:51:35 - Finding `comment`-29 in block
+2024-06-05 15:51:35 - Found `comment` in block!
+2024-06-05 15:51:36 - Not found `expanded button`, retrying...
+2024-06-05 15:51:36 - Finding `comment`-30 in block
+2024-06-05 15:51:36 - Found `comment` in block!
+2024-06-05 15:51:37 - Not found `expanded button`, retrying...
+2024-06-05 15:51:37 - Finding `comment`-31 in block
+2024-06-05 15:51:37 - Found `comment` in block!
+2024-06-05 15:51:38 - Re-finding comment_blocks
+2024-06-05 15:51:39 - Not found `expanded button`, retrying...
+2024-06-05 15:51:39 - Finding `comment`-32 in block
+2024-06-05 15:51:39 - Found `comment` in block!
+2024-06-05 15:51:41 - `expanded button` did not disappear within the time limit.
+2024-06-05 15:51:41 - Finding `comment`-33 in block
+2024-06-05 15:51:41 - Found `comment` in block!
+2024-06-05 15:51:42 - Not found `expanded button`, retrying...
+2024-06-05 15:51:42 - Finding `comment`-34 in block
+2024-06-05 15:51:42 - Found `comment` in block!
+2024-06-05 15:51:43 - Not found `expanded button`, retrying...
+2024-06-05 15:51:43 - Finding `comment`-35 in block
+2024-06-05 15:51:43 - Found `comment` in block!
+2024-06-05 15:51:44 - Not found `expanded button`, retrying...
+2024-06-05 15:51:44 - Finding `comment`-36 in block
+2024-06-05 15:51:44 - Found `comment` in block!
+2024-06-05 15:51:45 - Not found `expanded button`, retrying...
+2024-06-05 15:51:45 - Finding `comment`-37 in block
+2024-06-05 15:51:45 - Found `comment` in block!
+2024-06-05 15:51:46 - Not found `expanded button`, retrying...
+2024-06-05 15:51:46 - Finding `comment`-38 in block
+2024-06-05 15:51:46 - Found `comment` in block!
+2024-06-05 15:51:47 - Not found `expanded button`, retrying...
+2024-06-05 15:51:47 - Finding `comment`-39 in block
+2024-06-05 15:51:47 - Found `comment` in block!
+2024-06-05 15:51:48 - Not found `expanded button`, retrying...
+2024-06-05 15:51:48 - Finding `comment`-40 in block
+2024-06-05 15:51:48 - Found `comment` in block!
+2024-06-05 15:51:49 - Not found `expanded button`, retrying...
+2024-06-05 15:51:49 - Finding `comment`-41 in block
+2024-06-05 15:51:49 - Found `comment` in block!
+2024-06-05 15:51:50 - Re-finding comment_blocks
+2024-06-05 15:51:51 - Not found `expanded button`, retrying...
+2024-06-05 15:51:51 - Finding `comment`-42 in block
+2024-06-05 15:51:51 - Found `comment` in block!
+2024-06-05 15:51:52 - Not found `expanded button`, retrying...
+2024-06-05 15:51:52 - Finding `comment`-43 in block
+2024-06-05 15:51:52 - Found `comment` in block!
+2024-06-05 15:51:53 - Not found `expanded button`, retrying...
+2024-06-05 15:51:53 - Finding `comment`-44 in block
+2024-06-05 15:51:53 - Found `comment` in block!
+2024-06-05 15:51:54 - Not found `expanded button`, retrying...
+2024-06-05 15:51:54 - Finding `comment`-45 in block
+2024-06-05 15:51:54 - Found `comment` in block!
+2024-06-05 15:51:55 - Not found `expanded button`, retrying...
+2024-06-05 15:51:55 - Finding `comment`-46 in block
+2024-06-05 15:51:56 - Found `comment` in block!
+2024-06-05 15:51:57 - Not found `expanded button`, retrying...
+2024-06-05 15:51:57 - Finding `comment`-47 in block
+2024-06-05 15:51:57 - Found `comment` in block!
+2024-06-05 15:51:58 - Not found `expanded button`, retrying...
+2024-06-05 15:51:58 - Finding `comment`-48 in block
+2024-06-05 15:51:58 - Found `comment` in block!
+2024-06-05 15:51:59 - Not found `expanded button`, retrying...
+2024-06-05 15:51:59 - Finding `comment`-49 in block
+2024-06-05 15:51:59 - Found `comment` in block!
+2024-06-05 15:52:00 - Re-finding comment_blocks
+2024-06-05 15:52:00 - No new comments found, stopping
+2024-06-05 15:52:00 - Saved JSON data to ./dat/SmileJoyce微微笑手作坊.json
+2024-06-05 15:52:00 - Finding `shop_information`
+2024-06-05 15:52:00 - Try-1 to find `shop information`
+2024-06-05 15:52:00 - Finding `search_result_panels`
+2024-06-05 15:52:00 - Finding `panels`
+2024-06-05 15:52:00 - Found `panels`!
+2024-06-05 15:52:00 - Found `search_result_panels`!
+2024-06-05 15:52:00 - Found `shop information`!
+2024-06-05 15:52:02 - Try-1 to find `comment button`
+2024-06-05 15:52:02 - Finding `search_result_panels`
+2024-06-05 15:52:02 - Finding `panels`
+2024-06-05 15:52:02 - Found `panels`!
+2024-06-05 15:52:02 - Found `search_result_panels`!
+2024-06-05 15:52:03 - Try-2 to find `comment button`
+2024-06-05 15:52:03 - Finding `search_result_panels`
+2024-06-05 15:52:03 - Finding `panels`
+2024-06-05 15:52:03 - Found `panels`!
+2024-06-05 15:52:03 - Found `search_result_panels`!
+2024-06-05 15:52:04 - Try-3 to find `comment button`
+2024-06-05 15:52:04 - Finding `search_result_panels`
+2024-06-05 15:52:04 - Finding `panels`
+2024-06-05 15:52:04 - Found `panels`!
+2024-06-05 15:52:04 - Found `search_result_panels`!
+2024-06-05 15:52:05 - Finding `shops_list_scroll_panel`
+2024-06-05 15:52:05 - Finding `panels`
+2024-06-05 15:52:05 - Found `panels`!
+2024-06-05 15:52:05 - Found `shops_list_scroll_panel`!
+2024-06-05 15:52:08 - Finding `shops_anchors`
+2024-06-05 15:52:08 - Finding `panels`
+2024-06-05 15:52:08 - Found `panels`!
+2024-06-05 15:52:08 - Found `shops_anchors`!
+2024-06-05 15:52:08 - Finding `shop_information`
+2024-06-05 15:52:08 - Try-1 to find `shop information`
+2024-06-05 15:52:08 - Finding `search_result_panels`
+2024-06-05 15:52:08 - Finding `panels`
+2024-06-05 15:52:09 - Found `panels`!
+2024-06-05 15:52:09 - Found `search_result_panels`!
+2024-06-05 15:52:09 - Found `shop information`!
+2024-06-05 15:52:11 - Try-1 to find `comment button`
+2024-06-05 15:52:11 - Finding `search_result_panels`
+2024-06-05 15:52:11 - Finding `panels`
+2024-06-05 15:52:11 - Found `panels`!
+2024-06-05 15:52:11 - Found `search_result_panels`!
+2024-06-05 15:52:11 - Found `comment button`!
+2024-06-05 15:52:12 - Try-1 to find `radiogroup`
+2024-06-05 15:52:12 - Finding `search_result_panels`
+2024-06-05 15:52:12 - Finding `panels`
+2024-06-05 15:52:12 - Found `panels`!
+2024-06-05 15:52:12 - Found `search_result_panels`!
+2024-06-05 15:52:13 - Not found radiogroup, retrying...
+2024-06-05 15:52:14 - Try-2 to find `radiogroup`
+2024-06-05 15:52:14 - Finding `search_result_panels`
+2024-06-05 15:52:14 - Finding `panels`
+2024-06-05 15:52:14 - Found `panels`!
+2024-06-05 15:52:14 - Found `search_result_panels`!
+2024-06-05 15:52:16 - Not found radiogroup, retrying...
+2024-06-05 15:52:17 - Try-3 to find `radiogroup`
+2024-06-05 15:52:17 - Finding `search_result_panels`
+2024-06-05 15:52:17 - Finding `panels`
+2024-06-05 15:52:17 - Found `panels`!
+2024-06-05 15:52:17 - Found `search_result_panels`!

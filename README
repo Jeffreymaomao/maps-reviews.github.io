@@ -1,0 +1,72 @@
+
+### 1. Downloads
+
+Google Chrome Driver
+https://googlechromelabs.github.io/chrome-for-testing/
+
+macOS Apple Silicon (M1, M2, ...) -> arm64
+
+--------------------------------------------------------------------------------
+
+### 2. Move to PATH
+
+Move to `/usr/local/bin`
+
+--------------------------------------------------------------------------------
+
+### 3. Authority
+
+Setting 
+Security
+Allow
+
+
+main1.py
+main2.py
+main3.py
+main4.py
+main5.py 可以成功跑，接下來把 log file 加上去。
+
+
+log_message(f"Created directory: {directory}")
+log_message(f"Saved text data to {filepath}")
+log_message(f"Saved JSON data to {filepath}")
+log_message("Unsupported data type. Only str, dict, and list are supported.")
+log_message(f"Error saving data to file: {e}")
+log_message("Starting get_panels")
+log_message("get_panels completed successfully.")
+log_message(f"Error in get_panels: {e}")
+log_message("Starting get_search_result_panels")
+log_message("get_search_result_panels completed successfully.")
+log_message(f"Error in get_search_result_panels: {e}")
+log_message("Starting get_shops_anchors")
+log_message("get_shops_anchors completed successfully.")
+log_message(f"Error in get_shops_anchors: {e}")
+log_message("Starting get_shops_list_scroll_panel")
+log_message("get_shops_list_scroll_panel completed successfully.")
+log_message(f"Error in get_shops_list_scroll_panel: {e}")
+log_message("Starting get_shop_information")
+log_message(f"Attempt {retry+1} to get shop information")
+log_message(f"Successfully obtained shop information")
+log_message("Not found info! retrying...")
+log_message(f"Attempt {retry+1} to get comment button")
+log_message("Comment button found")
+log_message("Not found comment button, retrying...")
+log_message(f"Attempt {retry+1} to get radiogroup")
+log_message("Not found radiogroup, retrying...")
+log_message("Failed to find radiogroup after multiple retries")
+log_message("Radiogroup found, fetching radios")
+log_message(f"Found radios!")
+log_message("Starting to get comments")
+log_message(f"Attempt {retry+1} to get comments_group")
+log_message("Not found comments_group, retrying...")
+log_message("Feiched comments_group!")
+log_message("Reached max number of comments, stopping")
+log_message("Not found expanded button, retrying...")
+log_message("expanded_button did not disappear within the time limit.")
+log_message("Starting to get comment in block")
+log_message("Found comment in block")
+log_message("Not found comment in block")
+log_message("No new comments found, stopping")
+log_message(f"Re-get comment_blocks")
+log_message(f"Total comments fetched: {len(all_comments_datas)}")

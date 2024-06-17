@@ -1,0 +1,62 @@
+main			主要內容
+tablist			總覽、評論、簡介
+radiogroup		評論分類（有幾則評論提到xxx）
+img				用於表示星星數的照片，如果用父元素取 innerText 可以得到星星數
+dialog			
+
+
+region	0. 規劃路線、儲存、附近、傳送到手機、分享
+region	1. 外帶、內用、外送
+region	2. 地址、開始時間、聯絡方式、電話...
+region	3. 相片、影片
+region	4. 
+
+group 	0. 外帶
+group 	1. 內用
+group 	2. 外帶
+
+button	0. 營業時間（ .nextSibling 是顯示營業時間的表格 ）
+button	1. 
+button	2. 評論摘要 1
+button	3. 評論摘要 2
+button	4. 評論摘要 3
+
+text	1. 在 button 中的評論摘要 1
+text	2. 在 button 中的評論摘要 2
+text	3. 在 button 中的評論摘要 3
+																
+link	1. 其他人也搜尋了以下項目 1
+link	2. 其他人也搜尋了以下項目 2
+link	3. 其他人也搜尋了以下項目 3
+link	4. 其他人也搜尋了以下項目 4
+link	5. 其他人也搜尋了以下項目 5
+
+以下內容中，應該都是用於顯示以上內容的錨點
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation
+presentation							
